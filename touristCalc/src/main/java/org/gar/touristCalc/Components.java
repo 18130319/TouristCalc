@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
-public class Componentss extends JFrame {
+public class Components extends JFrame {
 	/**
 	 * Метод, создающий и возвращающий фрейм на основе переданных ему параметров
 	 * 
