@@ -33,7 +33,7 @@ public class Tour {
 		this.TransportPrice = TransportPrice;
 		this.FoodPrice = FoodPrice;
 		this.Tax = Tax;
-		result = calcTourCost(NumPeople, NumDays, RoomPrice, TransportPrice, transportMultiplier, FoodPrice,
+		result = calcTourCost(NumDays, NumDays, RoomPrice, TransportPrice, transportMultiplier, FoodPrice,
 				foodMultiplier, Tax);
 	}
 
