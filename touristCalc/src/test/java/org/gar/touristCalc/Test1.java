@@ -16,7 +16,7 @@ public class Test1 {
 		/**
 		 * Сравнение результата и ожидаемого значения
 		 */
-		assertEquals("0",a.getResult());
+		assertEquals("86594.0",a.getResult());
 	}
 }
 
