@@ -26,7 +26,7 @@ public class InterfaceAdmin extends Components {
 	/**
 	 * Создание массива с координатами кнопок
 	 */
-	private int[] buttonBounds = { 7, 37, 250, 25, 7, 67, 250, 25 };
+	private int[] buttonBounds = { 7, 67, 250, 25, 7, 37, 250, 25 };
 
 	public InterfaceAdmin() {
 		/**
