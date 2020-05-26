@@ -19,4 +19,3 @@ public class Test1 {
 		assertEquals("86594.0",a.getResult());
 	}
 }
-
