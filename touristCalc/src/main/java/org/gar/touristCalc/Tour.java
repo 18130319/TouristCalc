@@ -62,7 +62,7 @@ public class Tour {
 			double transportMultiplier, double FoodPrice, double foodMultiplier, double Tax) {
 		String TourPriceString = null;
 		double TourPriceDouble = 0;
-		TourPriceDouble = ((RoomPrice * NumDays * NumPeople) + (TransportPrice * NumPeople * transportMultiplier)
+		TourPriceDouble = ((NumDays * NumDays * NumPeople) + (TransportPrice * NumPeople * transportMultiplier)
 				+ (FoodPrice * NumPeople * NumDays * foodMultiplier)) + Tax;
 		TourPriceString = Double.toString(TourPriceDouble);
 		return TourPriceString;
