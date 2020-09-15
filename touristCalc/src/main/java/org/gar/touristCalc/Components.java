@@ -13,11 +13,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
-/**
- * 
- * Изменение
- *
- */
+
 public class Components extends JFrame {
 	/**
 	 * Метод, создающий и возвращающий фрейм на основе переданных ему параметров
