@@ -13,3 +13,4 @@ public class Initializer {
 		InterfaceAdmin a = new InterfaceAdmin();
 	}
 }
+//alo
