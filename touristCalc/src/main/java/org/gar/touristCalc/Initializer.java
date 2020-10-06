@@ -13,4 +13,4 @@ public class Initializer {
 		InterfaceAdmin a = new InterfaceAdmin();
 	}
 }
-//aloооо
+//здесь комментарий
