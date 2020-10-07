@@ -15,7 +15,7 @@ import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 /**
  * 
- * alo
+ * alo Danil big boy
  *
  */
 public class Components extends JFrame {

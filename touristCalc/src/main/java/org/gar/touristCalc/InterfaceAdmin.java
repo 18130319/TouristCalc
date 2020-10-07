@@ -9,6 +9,7 @@ import javax.swing.JPanel;
 public class InterfaceAdmin extends Components {
 	/**
 	 * Инициализация основной панели
+	 *
 	 */
 	private JPanel mainPanel;
 	/**
