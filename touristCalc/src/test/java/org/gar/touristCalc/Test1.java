@@ -2,6 +2,7 @@ package org.gar.touristCalc;
 
 /**
  * Импортирование класса, содержащего набор методов сравнения
+good job
  */
 import static org.junit.Assert.*;
 import org.gar.touristCalc.Tour;
